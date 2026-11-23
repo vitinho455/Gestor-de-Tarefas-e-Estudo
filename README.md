@@ -1,4 +1,4 @@
-# Study-Flow — Gestor de Tarefas e Estudos (POO em Python)
+# Gestão de Tarefas e Estudo (POO em Python)
 
 Aplicação desktop em Python puro (apenas biblioteca padrão + `tkinter`/`ttk`) desenvolvida para demonstrar na prática os fundamentos e relacionamentos da **Programação Orientada a Objetos (POO)**: **Herança**, **Polimorfismo**, **Composição**, **Associação**, **Dependência**, **Abstração** e **Encapsulamento**.
 
@@ -18,7 +18,7 @@ Aplicação desktop em Python puro (apenas biblioteca padrão + `tkinter`/`ttk`)
 ## Estrutura de Pastas
 
 ```text
-Study-Flow/
+Gestor-de-Tarefas-e-Estudo/
 ├── main.py                         # Ponto de entrada da aplicação desktop
 ├── README.md                       # Visão geral, comandos e roteiro de vídeo
 ├── LICENSE                         # Licença CC0 1.0 Universal

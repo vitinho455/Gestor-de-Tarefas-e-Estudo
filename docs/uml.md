@@ -1,4 +1,4 @@
-# Diagrama de Classes UML 2.5 — Study-Flow (POO em Python)
+# Diagrama de Classes UML 2.5 — Gestão de Tarefas e Estudo (POO em Python)
 
 Arquitetura em camadas (`models` · `services` · `ui`) evidenciando **Herança**, **Polimorfismo**, **Composição**, **Associação** e **Dependência**.
 
